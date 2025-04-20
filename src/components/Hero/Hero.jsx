@@ -2,10 +2,10 @@ import React, { useEffect, useRef } from "react";
 import Typed from "typed.js";
 import { motion } from "framer-motion"; // Import Framer Motion
 import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from "react-icons/fa";
-import Img from "../../assets/Sufyan.png";
+import Img from "../../assets/Hassan.png";
 import { Link } from "react-scroll";
-import { MdMessage } from "react-icons/md";
-
+import { MMessage } from "react-icons/md";
+i
 const Hero = () => {
   const typedRef = useRef(null);
 
